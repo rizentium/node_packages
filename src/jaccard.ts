@@ -1,6 +1,5 @@
-export function sayHello() {
-    console.log('hi')
-  }
-export function sayGoodbye() {
-    console.log('goodbye')
+import Intersection from "./modules/intersection";
+
+export default function Jaccard(from:string, to:string) {
+  console.log('Hello')
 }
