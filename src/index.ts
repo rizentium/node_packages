@@ -1,3 +1,1 @@
-import Jaccard from "./jaccard";
-
-export default Jaccard;
+export * from './jaccard';

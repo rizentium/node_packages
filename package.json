@@ -1,16 +1,17 @@
 {
-  "name": "jaccard",
-  "version": "0.0.1",
+  "name": "jaccard-js",
+  "version": "0.0.2",
   "description": "Jaccard Index Javascript Library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "test": "node ./example/index.ts"
+    "test": "tsc ./example/index && node ./example/index.js"
   },
   "keywords": [
     "jaccard",
     "index"
   ],
   "author": "rizentium <rizentium@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
