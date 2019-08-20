@@ -1,0 +1,15 @@
+{
+  "name": "jaccard",
+  "version": "1.0.0",
+  "description": "Jaccard Index Javascript Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jaccard",
+    "index"
+  ],
+  "author": "rizentium <rizentium@gmail.com>",
+  "license": "MIT"
+}
