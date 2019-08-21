@@ -1,1 +1,3 @@
-export * from './jaccard';
+import * as Jaccard from "./jaccard/jaccard";
+
+export {Jaccard};

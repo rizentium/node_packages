@@ -1,11 +1,12 @@
 {
   "name": "jaccard-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Jaccard Index Javascript Library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "test": "tsc ./example/index && node ./example/index.js"
+    "test": "tsc ./example/index && node ./example/index.js",
+    "build": "tsc"
   },
   "keywords": [
     "jaccard",
